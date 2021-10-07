@@ -52,7 +52,7 @@ def run():
  / \  |
       |
 =========''']
-    DB = ['JAVA','SQL']
+    DB = ['JAVA','SQL','PYTHON','GO','SWIFT','KOTLIN','RUST','C','PHP','SCALA']
     word = random.choice(DB)
     spaces = ["_"]*len(word)
 
